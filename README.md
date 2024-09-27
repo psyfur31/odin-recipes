@@ -1,0 +1,2 @@
+#Im Psyfur31, clerk by day, aspiring programmer by night
+#I've learned briefly on the basics of computers such as open source vs closed source, text editor such as Unix and VSCode, learned to setup Linux as well as briefly learned about HTML
