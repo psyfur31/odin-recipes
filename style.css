@@ -12,3 +12,19 @@
     color: #000000;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.parm {
+    font-size: 40px;
+    font-weight: 500;
+    color: white;
+    background-color: red;
+
+}
+
+p,
+ul,
+ol {
+    color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
